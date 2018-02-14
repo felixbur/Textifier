@@ -1,0 +1,11 @@
+# klammern definieren gruppen die durch $1-9 gemerkt werden können, $0 ist der gesamtausdruck
+# ignore many whitespace before comma, and insert one after comma
+#\s*,(\S)=, $1
+# remove text in sharp brackets
+<[^>]*>=
+\[.*\]=
+\(\(.*\)\)=
+\*=
+§.=
+$.=
+\'=

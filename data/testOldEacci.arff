@@ -1,0 +1,342 @@
+@relation eacciTranscripts
+@attribute transcript string
+@attribute class {kdsv,kmpt,knbr,noap,rchn,strg,umzg,untr}
+@data
+"Verbindung zustande es meldete sich niemand", knbr
+"ich finde es seltsam  unterschiedliche Auskunft zu erhalten ich war davon ausgegangen in eine prepaid Karte wechseln zu können hab dafür auch hin fünfzehn Euro monatlich gezahlt jetzt ein Jahr lang und im Endeffekt dann ein ein halb beziehungsweise fast zwei Jahre lang  und versteh wirklich nicht ganz warum und wechseln kann ich jetzt in keinen anderen Tarif obwohl ich sag ich möchte überhaupt nicht telefonieren ich nutz das Telefon im Moment nicht weil ich ein Baby bekommen hab und beruflich einfach mindestens bis Februar nächsten Jahres nicht telefonieren werde ich find  seltsam", kdsv
+"ich finde es seltsam  unterschiedliche Auskunft zu erhalten ich war davon ausgegangen in eine prepaid Karte wechseln zu können hab dafür auch hin fünfzehn Euro monatlich gezahlt jetzt ein Jahr lang und im Endeffekt dann ein ein halb beziehungsweise fast zwei Jahre lang  und versteh wirklich nicht ganz warum und wechseln kann ich jetzt in keinen anderen Tarif obwohl ich sag ich möchte überhaupt nicht telefonieren ich nutz das Telefon im Moment nicht weil ich ein Baby bekommen hab und beruflich einfach mindestens bis Februar nächsten Jahres nicht telefonieren werde ich find  seltsam", kmpt
+"ich muss doch erstmal mit einem Berater sprechen ich hab ja noch keinen Berater gehabt", untr
+"ihre Kollegin  sieht nur etwas nach für mich und ich möchte sprechen", knbr
+"das Gespräch war noch gar nicht beendet und da werd ich nach der Bewertung gefragt ich habe  lange darauf gewartet bis ich eine  Nachricht bekomme und dann wurde ich rausgeschmissen und es ging zur Bewertung da kann ich natürlich nicht zufrieden sein", knbr
+"das Gespräch war noch gar nicht beendet und da werd ich nach der Bewertung gefragt ich habe  lange darauf gewartet bis ich eine  Nachricht bekomme und dann wurde ich rausgeschmissen und es ging zur Bewertung da kann ich natürlich nicht zufrieden sein", noap
+"ich komme nicht an den Berater dran das ist nicht gut ich warte schon zehn Minuten", untr
+"ich komme nicht an den Berater dran das ist nicht gut ich warte schon zehn Minuten", noap
+"ich wurde falsch verstanden ich bin äußerst zufrieden danke", noap
+"noch kein Gespräch mit unserem Service Leiter mit ihrem Service Leiter hier am Telefon", noap
+"das Gespräch war nicht beendet", knbr
+"ich wühle", kmpt
+"hab keine Antwort erhalten   bin rausgeschmissen worden", knbr
+"geh", noap
+"die Auskunft", noap
+"Dame hat einfach aufgelegt", noap
+"mit der ich gesprochen hab war denke ich mal nicht nicht der deutschen Sprache überaus mächtig sie hatte einen ostdeutschen Akzent und daher sehr schwer zu verstehen des Weiteren denk ich mal wird sie nicht genau wissen was ich für ein Problem habe und konnte mir auch keine Lösung anbieten", kmpt
+"lange Response Zeit  unsicher vermischten Eindruck nicht kompetent danke", kmpt
+"einmal haben die einfach schon aufgelegt zweimal einfach aufgelegt ohne unsere Fragen zu beantworten", knbr
+"hat sie mich  und jetzt sind sie dran", noap
+"leider hatte ich gar keinen Berater am Telefon sondern habe nur ein Rauschen in der Leitung gehört jetzt muss ich wahrscheinlich diese ganze Prozedur von eben noch mal wieder machen  für die ich eben schon drei Minuten gebraucht habe deswegen bin ich ziemlich unzufrieden", untr
+"leider hatte ich gar keinen Berater am Telefon sondern habe nur ein Rauschen in der Leitung gehört jetzt muss ich wahrscheinlich diese ganze Prozedur von eben noch mal wieder machen  für die ich eben schon drei Minuten gebraucht habe deswegen bin ich ziemlich unzufrieden", noap
+"ein Gespräch mit einem Berater kam nicht zustande", untr
+"ich hab heut eine mehr oder weniger eine Tarif Umstellung gemacht von dem relax ein tausend auf diese super Flat wo jetzt neun und achtzig Euro fünf und neunzig kostet  ich hab jetzt mein alten also diese zwei tausend abrufen lassen und jetzt wird mir berechnet die drei hundert Minuten und weil ich schon fast fünf hundert Minuten gehabt hab für die zwei hundert Minuten bezahl ich dann sechs und fünfzig Euro und ab heute zahle ich anteilig auch noch  für diesen super Flatrate von diesen neun und achtzig fünf und neunzig will man mir abbuchen es sind bestimmt nächsten Monat hundert achtzig Euro dort mit dieser Sache bin ich absolut nicht einverstanden und  grad hab ich mit einem Kundenberater diesbezüglich gesprochen und dann wurd ich wie gesagt  weggedrückt und kam dann Computerstimme also das kann  ja nicht sein", kdsv
+"ich hab heut eine mehr oder weniger eine Tarif Umstellung gemacht von dem relax ein tausend auf diese super Flat wo jetzt neun und achtzig Euro fünf und neunzig kostet  ich hab jetzt mein alten also diese zwei tausend abrufen lassen und jetzt wird mir berechnet die drei hundert Minuten und weil ich schon fast fünf hundert Minuten gehabt hab für die zwei hundert Minuten bezahl ich dann sechs und fünfzig Euro und ab heute zahle ich anteilig auch noch  für diesen super Flatrate von diesen neun und achtzig fünf und neunzig will man mir abbuchen es sind bestimmt nächsten Monat hundert achtzig Euro dort mit dieser Sache bin ich absolut nicht einverstanden und  grad hab ich mit einem Kundenberater diesbezüglich gesprochen und dann wurd ich wie gesagt  weggedrückt und kam dann Computerstimme also das kann  ja nicht sein", noap
+"ich hab versucht viermal anzurufen und jedes Mal bin ich aus der Leitung geschmissen worden und jetzt lande ich automatisch auf dem Band der Zufriedenheits Kontrolle das ist ja wohl eine Zumutung ich kann doch nicht andauernd anrufen und zum Schluss gefragt werden sind sie denn zufrieden was wollen sie denn von mir hören das ist doch mehr wie schlecht sie werden immer schlechter mit ihrem Service das muss ich schon sagen", untr
+"also das ganze Gespräch war miserabel der  die Beratung war miserabel wenn mit dem Mitarbeiter konnte man sich gar nicht unterhalten er versucht mich hier noch als dumm darzustellen  ich hab das noch nicht mal schriftlich gekriegt was  ich bezahlen soll wieso krieg ich das denn nicht schriftlich damit  nicht dass ich überweise und wieder so eine fristlose Kündigung kriege", kmpt
+"also das ganze Gespräch war miserabel der  die Beratung war miserabel wenn mit dem Mitarbeiter konnte man sich gar nicht unterhalten er versucht mich hier noch als dumm darzustellen  ich hab das noch nicht mal schriftlich gekriegt was  ich bezahlen soll wieso krieg ich das denn nicht schriftlich damit  nicht dass ich überweise und wieder so eine fristlose Kündigung kriege", noap
+"es ist nicht zufrieden stellen einfach aufgelegt wird und man nicht einmal eine Rückmeldung oder einen versprochenen Rückruf bekommt seit einem Jahr warte ich hierauf und jede Woche kann ich hier wieder anrufen und dann wird einfach aufgelegt dass ist unverschämt mehr fällt mir dazu nicht ein", noap
+"es ist nicht zufrieden stellen einfach aufgelegt wird und man nicht einmal eine Rückmeldung oder einen versprochenen Rückruf bekommt seit einem Jahr warte ich hierauf und jede Woche kann ich hier wieder anrufen und dann wird einfach aufgelegt dass ist unverschämt mehr fällt mir dazu nicht ein", noap
+"es ist so gewesen dass ich jetzt einfach ausgeblendet worden bin und jetzt auf  umgeschaltet worden bin um dass ich die Frage Fragen beantworte also ich weiß nicht mal den Namen von dem Herrn er hat ihn zwar genannt ich wollte ihn noch mal   fragen genau weil ich nicht ganz verstanden habe und dann war das Gespräch auch auf einmal schon beendet und ich  bin ewig schon dran mit der Telekom eine Einigung zu kriegen über meine Rechnung und das lauft schon über drei Monate hinweg oder  ja fast drei Monate und wir kommen nicht zurecht", noap
+"es ist so gewesen dass ich jetzt einfach ausgeblendet worden bin und jetzt auf  umgeschaltet worden bin um dass ich die Frage Fragen beantworte also ich weiß nicht mal den Namen von dem Herrn er hat ihn zwar genannt ich wollte ihn noch mal   fragen genau weil ich nicht ganz verstanden habe und dann war das Gespräch auch auf einmal schon beendet und ich  bin ewig schon dran mit der Telekom eine Einigung zu kriegen über meine Rechnung und das lauft schon über drei Monate hinweg oder  ja fast drei Monate und wir kommen nicht zurecht", rchn
+"man hat mir komplett nicht geholfen man hat mich in die Warteschleife und anschließend rausgeschmissen sehr sehr unkompetent", knbr
+"der Gesprächspartner von ihnen war inkompetent und unfreundlich", kmpt
+"ich konnte mit keinem Kundenberater oder Service Berater sprechen ich wurde nicht mal verbunden", untr
+"ich war in der Warteschleife es hat bisher noch gar kein  Gespräch stattgefunden", untr
+"meine Frage wurde nicht beantwortet und der Berater hat eingehängt", noap
+"dass im Servicecenter wenn  um die Rechnung geht niemand Ahnung hat", kmpt
+"dass im Servicecenter wenn  um die Rechnung geht niemand Ahnung hat", rchn
+"es geht  es ist ist nicht in Ordnung dass Leute die ein spar Vertrag haben mit günstigen  Grundgebühren weil sie wenig Handy Nutzer sind deutlich teurer telefonieren als Leute eine Xtra Card ohne Grundgebühr haben und ich für ein Euro quasi ab der zweiten Minute eine Flatrate leisten können das steht in keinem Verhältnis denn wenn ich sehe dass mein  mit fünfzig Freiminuten  fünfzehn Euro im Monat kostet mit diesen fünfzehn Euro kann ich mit der Xtra Card im Flat nonstop dermaßen mehr telefonieren das steht also in keinem Verhältnis und da fühl ich mich als Vertrags Zahler für vier und zwanzig Euro deutlich über den Tisch gezogen weil ich weniger Leistung für mein Geld erhalte", kdsv
+"das Gespräch wurde einfach  das Gespräch wurde einfach unterbrochen und ich kam direkt in ihre Befragung rein die Dame die da am Telefon war war wohl nicht kompetent die sagte tut mir leid ich kann ihnen nicht helfen klack aufgelegt", noap
+"das Gespräch wurde einfach  das Gespräch wurde einfach unterbrochen und ich kam direkt in ihre Befragung rein die Dame die da am Telefon war war wohl nicht kompetent die sagte tut mir leid ich kann ihnen nicht helfen klack aufgelegt", kmpt
+"bei dem Gespräch ist keine Verbindung zustande gekommen ich weiß nicht ob sie mich jetzt verstehen können meine Handynummer ist null eins sieben drei drei acht eins zwei drei eins sieben", noap
+"es geht um eine Störung an einem Geschäfts Anschluss und man kann nicht sozusagen einen Termin für eine mögliche Entstörung bekommen man ist im Ungewissen man steht im Ungewissen wir kommen hier nicht  keiner kann arbeiten das ist grundsätzlich schlecht", strg
+"es geht um eine Störung an einem Geschäfts Anschluss und man kann nicht sozusagen einen Termin für eine mögliche Entstörung bekommen man ist im Ungewissen man steht im Ungewissen wir kommen hier nicht  keiner kann arbeiten das ist grundsätzlich schlecht", noap
+"es ist direkt nach Kontakt aufgelegt worden Seitens der Telekom", untr
+"Hilfe bekommen ich ich hab keine Hilfe bekommen ich bin sofort geleitet worden in die Abfrage  ohne dass man mich beraten hat", untr
+"der auf die Probleme wurden nicht eingegangen es wurde keine Telefonnummer von dem Kundenservice vor Ort ausgegeben  und allgemein unfreundliches Verhalten", kmpt
+"Zeit", noap
+"erstens wurde der Umzug  gebucht seit sechs Tagen versuche ich das jetzt zu regeln keiner von euren Mitarbeiter ist anscheinend fähig das zu regeln zum zweiten ruf ich heute schon zum zehnten mal an und werde immer verschoben und nicht erreichbar und das Gespräch bricht ab und und und  lange Rede kurzer Sinn das  acht oder zehn Mal anrufen bei der Telekom ist das Problem immer noch nicht gelöst und seit sechs Tage kriegt das niemand auf die Reihe", umzg
+"erstens wurde der Umzug  gebucht seit sechs Tagen versuche ich das jetzt zu regeln keiner von euren Mitarbeiter ist anscheinend fähig das zu regeln zum zweiten ruf ich heute schon zum zehnten mal an und werde immer verschoben und nicht erreichbar und das Gespräch bricht ab und und und  lange Rede kurzer Sinn das  acht oder zehn Mal anrufen bei der Telekom ist das Problem immer noch nicht gelöst und seit sechs Tage kriegt das niemand auf die Reihe", noap
+"mir wurde zugesagt dass mein Telefonanschluss heute freigeschaltet wird ich kann bis jetzt immer noch nicht telefonieren muss ich jetzt mit dem teuren Handy  den ganzen Tag das dritte vierte Mal anrufen und weiß immer noch nicht Bescheid warum es nicht funktioniert", noap
+"Beraterin hat einfach den Hörer aufgelegt  Telekom einfach scheiße nur noch", noap
+"ihr Mitarbeiter hat andauernd dazwischengeredet mich nicht ausreden lassen und mir nicht geholfen und letztendlich einfach aufgelegt das ist Wahnsinn so was hab ich noch nie erlebt", kmpt
+"endlich mit meinem zuständigen Berater verbunden werden", noap
+"hat sich nicht die Beraterin hat sich nicht auf meine Beschwerde bezogen und im  Anschluss einfach aufgelegt find ich extrem unzufrieden", noap
+"Termin", noap
+"ich bin  ich konnte überhaupt nicht zum Service Mitarbeiter durchgestellt werden man hat mich einfach in der Leitung hängen lassen bis ihre Abfrage kam über die Bewertung", untr
+"der Berater hat mir nicht ordentlich zugehört und war sehr unhöflich", kmpt
+"ihre Mitarbeiter verstecken sich hinter der Anonymität und  Kompetenz ist null vorhanden", kmpt
+"so ist ganz einfach so wie sie einen die Tarif über helfen sie fragen rufen an einfach obwohl es verboten war bei mir weil  ein Geschäfts Telefon ist die pampigen Antworten die man von ihnen bekommt und wie sie mit Geschäftskunden umgehen", kdsv
+"so ist ganz einfach so wie sie einen die Tarif über helfen sie fragen rufen an einfach obwohl es verboten war bei mir weil  ein Geschäfts Telefon ist die pampigen Antworten die man von ihnen bekommt und wie sie mit Geschäftskunden umgehen", kmpt
+"ich habe  ich habe wohl eben angerufen und der Kundenservice wurde mitten im Gespräch leider  wurde aufgelegt dann habe ich wieder angerufen dann wurde ich direkt in diese Hotline dass ich dieses bewerten soll sprich ich habe weder mit einer Kollegin gesprochen noch sonst irgendwas ich find das hier echt einen Witz", knbr
+"niemand in die  es ist niemand in die Leitung gekommen ich hab ich wurde verbunden zur Technik und bin direkt auf der Ansage gelandet dass ich doch jetzt bitte diese das Gespräch bewerten wollen das nenn ich doch eine Verarschung", knbr
+"leider kein Gespräch", untr
+"damit jetzt irgendwo ein Rabatt ist das Gespräch wurde einfach von der Servicekraft der Telekom einfach oder T-Mobile einfach  aufgelegt und  der Person war wahrscheinlich ziemlich egal ob ich hier den Vertrag jetzt kündige ich hab noch dieses Stornierungs Recht  find ich eigentlich ziemlich unverschämt", kdsv
+"damit jetzt irgendwo ein Rabatt ist das Gespräch wurde einfach von der Servicekraft der Telekom einfach oder T-Mobile einfach  aufgelegt und  der Person war wahrscheinlich ziemlich egal ob ich hier den Vertrag jetzt kündige ich hab noch dieses Stornierungs Recht  find ich eigentlich ziemlich unverschämt", noap
+"die genaue Information über über Ausführung eines Tarifes wenn man  wurden mir nicht mitgeteilt so wie es sein soll wenn man bei T-Com ist  das ist nicht in Ordnung und die  fünf Euro hab ich verschenkt über Jahre das hat ist ärgerlich das bildet immerhin Misstrauen", kdsv
+"ich probiere seit einer Woche Telefon und Internet zu bekommen und habe heute mittlerweile nach einer Woche drei und zwanzig Mitarbeiter und jeder Mitarbeiter erzählt mir am Telefon was anderes  das kann nicht sein  dass deutschlandweit Mitarbeiter erreiche und niemand ist kompetent der mir endlich das Internet freischalten tut einmal geht  Telefon plus Internet dann Telefon alleine und dann geht gar nichts mehr dann geht wieder Telefon noch Internet nicht und jeder Techniker erzählt mir was anderes also ich bin da mittlerweile stinkend sauer eine Woche geht das Spiel danke", kmpt
+"ich probiere seit einer Woche Telefon und Internet zu bekommen und habe heute mittlerweile nach einer Woche drei und zwanzig Mitarbeiter und jeder Mitarbeiter erzählt mir am Telefon was anderes  das kann nicht sein  dass deutschlandweit Mitarbeiter erreiche und niemand ist kompetent der mir endlich das Internet freischalten tut einmal geht  Telefon plus Internet dann Telefon alleine und dann geht gar nichts mehr dann geht wieder Telefon noch Internet nicht und jeder Techniker erzählt mir was anderes also ich bin da mittlerweile stinkend sauer eine Woche geht das Spiel danke", strg
+"auf die einfache Frage einer  einer Anruf Weiterleitung werde ich ins Nirwana geschaltet und  man meldet sich nicht mehr ich habe mittlerweile die fünfte Rufnummer gewählt und  mein Problem ist immer noch nicht gelöst", kmpt
+"ich habe gewartet auf einen Mitarbeiter oder Mitarbeiterin und  nachdem der die Musik zu Ende waren die Leitungen wie tot war nichts", untr
+"Rechnung", rchn
+"es ging um eine Kundin mit der Rufnummer null zwei drei sechs vier vier drei zwei neun weil der Techniker schon öfter nicht da war wir wollten eine Rufnummer angeben von dem Vorbesitzer der in der Wohnung war und der Mitarbeiter legte einfach auf mit der Begründung es ist eine Montage bestellt also muss Montage gemacht werden", kdsv
+"es ging um eine Kundin mit der Rufnummer null zwei drei sechs vier vier drei zwei neun weil der Techniker schon öfter nicht da war wir wollten eine Rufnummer angeben von dem Vorbesitzer der in der Wohnung war und der Mitarbeiter legte einfach auf mit der Begründung es ist eine Montage bestellt also muss Montage gemacht werden", noap
+"weil ich noch weil ich noch keinen Gesprächspartner hatte dann kann ich kein Urteil abgeben", untr
+"ich konnt mit überhaupt niemand sprechen das war gleich wieder geschaltet ich möcht jetzt mit jemanden sprechen es geht um eine Tarif Änderung", untr
+"ich konnt mit überhaupt niemand sprechen das war gleich wieder geschaltet ich möcht jetzt mit jemanden sprechen es geht um eine Tarif Änderung", kdsv
+"tja die Frage kann ich einfach beantworten es gab überhaupt kein Gespräch ich bin überhaupt nicht verbunden worden mit ihrem ein Kundenberater sondern ganz einfach geleitet worden auf diese Nachfragen ob das Gespräch in Ordnung war ja ein Gespräch was ich nicht geführt habe kann auch nicht in Ordnung sein sehr traurig wie sie mit den Kunden umgehen also naja das war", untr
+"war gereizt und  ich hatte praktisch nur gereizte Antworten bekommen wenn ich eine Frage hatte und hatte mich nur  ja schlecht gelaunt durch die Menüs geführt", kmpt
+"ich  ich habe vor zwei Tagen angerufen ich habe gestern angerufen und habe um Berichtigung gebeten es passiert nichts und heute ruf ich das dritte mal an und werde einfach weggedrückt ohne dass man mich hin  meine Sache bearbeitet ich werde einfach weggedrückt und schon bin ich wieder raus aus dem Programm ich habe jetzt so viel Zeit investiert und so viel Geld schon über mein Handy vertelefoniert und es ist passiert einfach gar nichts und man kriegt auch kein Rückruf", knbr
+"ich  ich habe vor zwei Tagen angerufen ich habe gestern angerufen und habe um Berichtigung gebeten es passiert nichts und heute ruf ich das dritte mal an und werde einfach weggedrückt ohne dass man mich hin  meine Sache bearbeitet ich werde einfach weggedrückt und schon bin ich wieder raus aus dem Programm ich habe jetzt so viel Zeit investiert und so viel Geld schon über mein Handy vertelefoniert und es ist passiert einfach gar nichts und man kriegt auch kein Rückruf", noap
+"auf  der Service Mitarbeiter hat einfach aufgelegt weil ich  auf Nachfrage keine Antwort bekommen habe", untr
+"bin einfach  ich bin nicht einfach rausgeschmissen worden aus dem Rennen aus der Schleife und  das ist das Schlimmste was eigentlich passieren kann", untr
+"ich wurde mit niemanden verbunden kein Mensch hat mit mir gesprochen", untr
+"das sie eine genauere Zahl von Angaben machen können wann das  freigeschaltet wird", kmpt
+"es kann nicht sein  es kann nicht sein wenn ich anrufe und die Kundenberaterin mein Gespräch entgegennimmt und sagt ja es dauert einen Moment und dann das Gespräch beendet wird also ich find ich fühl mich da etwas veralbert tut mir leid", noap
+"die Freundlichkeit der Mitarbeiterin hat zu wünschen übrig gelassen", kmpt
+"auf das neue Konto hin abbuchen wir haben die Kontonummer geändert ich hoffe dass sie sonst bekommen sie kein Geld die Telekom ist unzuverlässig hoch drei", kdsv
+"auf das neue Konto hin abbuchen wir haben die Kontonummer geändert ich hoffe dass sie sonst bekommen sie kein Geld die Telekom ist unzuverlässig hoch drei", rchn
+"die Beraterin war äußerst unfreundlich und hat mich den Worten es warten ja auch noch andere Kunden auf sie mehr oder weniger aus der Leitung heraus komplimentiert das geht gar nicht  und außerdem du die war die wusste gar nichts das so was habe ich ehrlich noch nie erlebt", kmpt
+"die Rechnungs Stellung ist bei andern besser", kmpt
+"die Rechnungs Stellung ist bei andern besser", rchn
+"weil ich bereits zum fünften Mal angerufen habe und der Kollege nicht gesehen hat dass ich mit überhaupt niemand gesprochen hab und das ist sehr ärgerlich für mich", noap
+"es ist traurig wie hier mit mit älteren Kunden umgegangen wird also das ist ehrlich für eine Aktiengesellschaft sehr traurig muss ich ganz ehrlich sagen das werden einfach ältere Menschen angerufen und  irgendwas vereinbart und sie wissen gar nicht worum es sich dreht na und wenn sie zurückrufen kriegen sie keine Antwort oder kriegen keine Hilfe keine Unterstützung das ist sehr schlecht mangelhaft", kmpt
+"Frage konnte nicht beantwortet werden", noap
+"es gab kein Gespräch", untr
+"war noch nicht beendet", knbr
+"die Mitarbeiter sind nicht in der Lage Aussagen zu tätigen", kmpt
+"es nervt langsam mit eurem Mist", noap
+"Mitarbeiter von ihnen gesprochen  hallo ich bin nicht verbunden worden", untr
+"ich hab mit niemanden gesprochen es war niemand da mit dem ich sprechen konnte das Telefon war war  ruhig kein Ton nichts", untr
+"ich habe gar kein Gespräch geführt weil ich nicht verbunden wurde", untr
+"ich habe überhaupt nichts erreicht bei diesem Telefonanruf gar nichts", noap
+"zu lange Wartezeit", noap
+"es waren pampige Antworten es war eine freche Antwort mit  die hat das hab ich grad im Hintergrund noch mitgekriegt ja ja zu guter Strich was wollt ihr Kunden überhaupt von uns  und die Frechheiten die häufen sich und deswegen ist zum Ende des Vertrages nach acht Jahren der  Telekom Schluss das war", kmpt
+"die Freundlichkeit des Gesprächs wurde einfach beendet keine Problemlösung", kmpt
+"die Freundlichkeit des Gesprächs wurde einfach beendet keine Problemlösung", noap
+"ich habe mit keinem Mitarbeiter gesprochen weil niemand am anderen Ende war", untr
+"ich habe siebzehn Minuten in der Wartesschleife gewartet das ist eine Sauerei für ein solch großes Unternehmen dass das Geld haben müsste um dementsprechend Berater zur Verfügung zu stellen", noap
+"weil ich eine Option aktiveren wollte wo es bei euch nicht funktioniert und da muss man Geld für bezahlen  wenn man bei einem Kunden anruft weil ich", kdsv
+"wurde nicht behoben", noap
+"eine ausreichende  Information und Auskunft und Ausführung des Auftrags", noap
+"ich hab mit einem Herrn Koch telefoniert das Telefonat war sehr kurz weil er hat mich dann einfach geleitet an diese ja Telefon Auskunft Telefonbewertung  das ist für mich wie auflegen nicht angehen", knbr
+"Service Rauswurf aus dem Gespräch", knbr
+"ich war jetzt  zehn Minuten beziehungsweise eine Viertelstunde in der Warteschleife habe keine Rückinfo bekommen jetzt soll ich das Gespräch bewerten Punkt  Note acht", noap
+"ich war jetzt  zehn Minuten beziehungsweise eine Viertelstunde in der Warteschleife habe keine Rückinfo bekommen jetzt soll ich das Gespräch bewerten Punkt  Note acht", knbr
+"wurde mit einer Rufnummer der Antrag wurde mir einer Rufnummern   Wunsch geäußert der wurde mir verwehrt  aber mit dem Hinweis dass ich mich auf der acht und zwanzig acht und zwanzig melde  die wiederum sagen mir ich hätt  ja schriftlich machen sollen also Hütchen spielen einmal links einmal rechts einmal gucken wo das landet", kmpt
+"wurde mit einer Rufnummer der Antrag wurde mir einer Rufnummern   Wunsch geäußert der wurde mir verwehrt  aber mit dem Hinweis dass ich mich auf der acht und zwanzig acht und zwanzig melde  die wiederum sagen mir ich hätt  ja schriftlich machen sollen also Hütchen spielen einmal links einmal rechts einmal gucken wo das landet", kdsv
+"es ist  es ist einfach aufgelegt worden weil man mit dem nicht mehr kam was ich gesagt habe das ist eine Art und Weise am besten eine Bombe in die Telekom vielleicht kommt man dann ein bisschen", noap
+"Tarif Änderung", kdsv
+"der Mitarbeiter ist unfreundlich gewesen hatte  war nicht hilfsbereit hatte nicht wirklich eine Ahnung davon was ich von ihm wollte also außerdem gab es auch keine Lösung für das Problem", kmpt
+"weil ich nicht richtig verstanden werde", noap
+"also derzeit lässt der Kundenservice bei T-Mobile sehr zu wünschen übrig  man ruft einen an bietet einem irgendwas an ohne richtig konkrete Angaben zu machen was einen dann nachher erwartet ich bin am überlegen ob ich noch T-Mobile Kunde nächstes Jahr noch bleiben werde", kmpt
+"ich finde das Problem sprich ich habe kein    Empfang konnte nicht gelöst werden ich wurde auf unbestimmte Zeit vertröstet", strg
+"ich habe keine Antwort bekommen deshalb bin ich unzufrieden ich hab überhaupt keine Antwort bekommen auf meine Frage ich wurde nur in die Warteschleife gestellt und hab keine Antwort bekommen", knbr
+"Problem war das Problem war da dass ich alle Kündigungen zusammen geschickt hatte auch mit Einschreiben das wurde von der T-Mobile Hotline oder von von ihnen vom Service nicht erhalten in Anführungsstrichen sozusagen aufgepusht", kdsv
+"um genau zu sein war alles ziemlich von Anfang an ziemlich gut nur ich wurde dann einfach  weggeklickt aus irgendwelchen Gründen wo die ich immer noch nicht weiß ich bin immer noch mit dem selben Problem ich komme nicht  danke", knbr
+"haben sie rausgeschmissen ich warte immer noch auf den Kundenberater der sich für mich  einsetzt das ist ein scheiß Laden was ihr habt", knbr
+"ich hab mit niemanden gesprochen", untr
+"diese unnötige Abfrage die unnötige Abfrage nach Informationen die wir nicht haben die man dann unterbrechen will und die Dame dies dann nicht versteht und dann erst gibt  beim ersten Anlauf hab ich eine Dame gekriegt die nur die Grund Daten aufgenommen hat hat von nix eine Ahnung gehabt die hat erstmal den Multimedia Service  angerufen und der Mann da hat dann Bescheid gewusst insgesamt ist die Hotline von der Telekom das heißt von T-Mobile ein Kreuz sondergleichen", kmpt
+"ich hab ich finde die Telekom als äußerst unkulant weil mir ein Problem oder ein Fehler unterlaufen ist bei der Überweisung meiner Rechnung ich hab da ein Konto Dreher dringehabt  einen Zahlendreher hab gestern Abend mit einem Kollegen gesprochen von ihnen und der sagte mir wenn ich heut früh gleich überweise das hab ich vorher bei der Arbeit gemacht um sieben Uhr fünf und ein Fax schicke mit der Bitte um Freischaltung und und dem Überweisungsbeleg von der Bank dem ausgedruckten dann würde es wieder freigeschaltet leider habe ich jetzt eine andere Information bekommen dass das gar nicht funktioniert sondern dass das Telefon erst nach vier und zwanzig Stunden nach Zahlungseingang freigeschalten wird nun hätt ich mir die Mühe sparen können da  Brief hinzuschreiben oder ein Fax zu schicken bin ich ein bisschen enttäuscht aber sicherlich auch meine Schuld weil ich ja die Rechnung leider an das falsche Konto überwiesen habe", rchn
+"ich hab ich finde die Telekom als äußerst unkulant weil mir ein Problem oder ein Fehler unterlaufen ist bei der Überweisung meiner Rechnung ich hab da ein Konto Dreher dringehabt  einen Zahlendreher hab gestern Abend mit einem Kollegen gesprochen von ihnen und der sagte mir wenn ich heut früh gleich überweise das hab ich vorher bei der Arbeit gemacht um sieben Uhr fünf und ein Fax schicke mit der Bitte um Freischaltung und und dem Überweisungsbeleg von der Bank dem ausgedruckten dann würde es wieder freigeschaltet leider habe ich jetzt eine andere Information bekommen dass das gar nicht funktioniert sondern dass das Telefon erst nach vier und zwanzig Stunden nach Zahlungseingang freigeschalten wird nun hätt ich mir die Mühe sparen können da  Brief hinzuschreiben oder ein Fax zu schicken bin ich ein bisschen enttäuscht aber sicherlich auch meine Schuld weil ich ja die Rechnung leider an das falsche Konto überwiesen habe", kdsv
+"ich hatte noch gar kein Gespräch", untr
+"war nicht hilfsbereit", kmpt
+"es war eine  eine unkompetente Person hat mich beraten hat eine Falschauskunft gegeben kann mich nicht leiten zu der nächsten Instanz ich hab hier ein ganz technisches Problem was ich gerne gelöst haben möchte wird aber einfach nicht durchgeführt", kmpt
+"Problem wurde nicht erledigt", noap
+"ich hätte mittlerweile hätte ich am zwanzigsten sechsten einen Freischalt Termin bekommen der wurde mir schriftlich von ihnen bestätigt  leider wurde nur ein Telefonanschluss eingerichtet    wurde nicht mit gestellt obwohl ich das von ihnen bestätigt bekam  jetzt teilt mir eine Kollegin von ihnen mit dass der Termin wiederum verschoben wird auf den dreißigsten sechsten und ich  mich gezwungen fühle oder ich wär sehr daran interessiert alles zu stornieren und zur Konkurrenz zu gehen deswegen bin ich mit dem Service nicht zufrieden", noap
+"ich mag das nicht wenn die Telekom Fehler macht und der Kunde wird dann für blöd gehalten und wird das wird im Gespräch auch  so ausgedrückt", kmpt
+"alles  es war alles zufrieden es ist vielleicht verkehrt rübergekommen ich bin zufrieden gewesen", noap
+"der Berater war nicht informiert", kmpt
+"die Sprach Box Menü Führung nervt grundlos und der Sachbearbeiter konnte mir dann doch nicht helfen", noap
+"Berater hat einfach aufgelegt", noap
+"das Gespräch ist abgebrochen worden", knbr
+"wollte  der Kollege wollte mir gerade was erklären und das Gespräch war dann abrupt beendet auf einmal kam dieser Sprach Computer und fragt mich nach meiner Zufriedenheit obwohl der Kollege mir gerade was erklären wollte und jetzt würde ich gerne jetzt wieder mit dem Kollegen sprechen aber anscheinend muss ich erst hier irgendwelche Fragen beantworten das ist nicht schön", noap
+"das die Leitung einfach von ihnen unterbrochen wurde", knbr
+"Gott glauben sie also das ist eine Katastrophe mit der mit der Telekom ist unmöglich ich ich warte bis ob ich erfahre was was mit bei bei meiner Nachbarin  nun  ist weil der die nicht telefonieren kann nun und dabei krieg ich alles mögliche und nun man  und ich weiß überhaupt nicht wen es interessiert das ist doch ein Wahnsinn jetzt stehe da ich heut stundenlang am Telefon bloß dass ich erfahre ob ob die ob der  das Telefon von der Nachbarin von Nachbars  wieder in Ordnung kommt das ist doch  ein Witz", strg
+"ich hab  nicht verstanden", noap
+"ich habe von drei Kundenberatern zwei davon im T-Punkt einer auf der Hotline drei unterschiedliche Informationen bekommen zu meinem Anliegen und  was ist ganz schlimm war finde ich mitten in meinem Satz  der ganz normal vorgetragen wurde  aus einer gepflegten Kundenbeschwerde die Mitarbeiterin gerade eben einfach umgeschaltet hat auf ihre Evaluations  Software und überhaupt nicht richtig das Gespräch mit mir beendet hat praktisch aufgelegt hat das erzeugt für mich für einen respektvollen Umgang mit dem Kunden und ich erwarte mir natürlich etwas anderes von einem Unternehmen wie T-Mobile vor allem wenn der Kunde wie ich in meinem Fall  sein Anliegen ganz ruhig vorträgt und  dann trotzdem wie gesagt noch eine dritte unterschiedliche Information bekommt", kmpt
+"ich habe von drei Kundenberatern zwei davon im T-Punkt einer auf der Hotline drei unterschiedliche Informationen bekommen zu meinem Anliegen und  was ist ganz schlimm war finde ich mitten in meinem Satz  der ganz normal vorgetragen wurde  aus einer gepflegten Kundenbeschwerde die Mitarbeiterin gerade eben einfach umgeschaltet hat auf ihre Evaluations  Software und überhaupt nicht richtig das Gespräch mit mir beendet hat praktisch aufgelegt hat das erzeugt für mich für einen respektvollen Umgang mit dem Kunden und ich erwarte mir natürlich etwas anderes von einem Unternehmen wie T-Mobile vor allem wenn der Kunde wie ich in meinem Fall  sein Anliegen ganz ruhig vorträgt und  dann trotzdem wie gesagt noch eine dritte unterschiedliche Information bekommt", noap
+"ich wurde jetzt zwei Mal nachdem ich diverse Frage beantwortet hatte gestellt daraufhin war die Leitung besetzt so dass ich nie mit einem ihrer Berater sprechen konnte soll ich Fragen beantworten wie das Gespräch war das ist eine unmögliche Leistung Ende", untr
+"alles war nicht so wie ich es mir gewünscht habe ich habe dreizehn Minuten in der Warteschleife gesessen und dann wurde das Gespräch von ihnen aus beendet um hinterher diese schwachsinnige Befragung zu machen ich glaub da sollte man mit Herrn Berlemann sprechen der für die Call Center verantwortlich ist und bei ihnen  im Vorstand sitzt", noap
+"alles war nicht so wie ich es mir gewünscht habe ich habe dreizehn Minuten in der Warteschleife gesessen und dann wurde das Gespräch von ihnen aus beendet um hinterher diese schwachsinnige Befragung zu machen ich glaub da sollte man mit Herrn Berlemann sprechen der für die Call Center verantwortlich ist und bei ihnen  im Vorstand sitzt", untr
+"der Reparatur Auftrag den ich  angemeldet habe  wird nicht zu meiner Zufriedenheit  ausgeführt weil ich vielleicht  eine neue Telefon Anlage brauche eine Joymax drei hundert sechs  und mir der Kundenberater gesagt hat  das wäre mein Problem die wollte ich bei ihnen kaufen wenn ich jetzt gezwungen werde die woanders zu kaufen bin ich dafür völlig unzufrieden hab ich kein Verständnis für ich bin Kunde bei ihnen und wollte gerne bleiben", kdsv
+"ich wurde mit keinem Berater verbunden", untr
+"ich war zufrieden", noap
+"Beraterin konnte mich nicht konnte mir  nicht helfen und hat versucht am ende des Gesprächs mir  aufzuzwingen dass ich auflegen soll das ich keine Bewertung machen kann", kmpt
+"Information", noap
+"also ich bin bei der Telekom jetzt schon mehrere Jahre Kunde und ich hab gerade mit ihrem Service Mitarbeiter gesprochen und der hat mich angeschrieen und legt einfach während des Gesprächs auf und damit bin ich absolut absolut nicht zufrieden das kenn ich aber auch von der Deutschen Telekom gar nicht man kann mich nicht inmitten des Gespräches einfach abwürgen bin ich nicht der wurde laut und unhöflich und da und da fällt mir gar nichts mehr dazu ein", kmpt
+"also ich bin bei der Telekom jetzt schon mehrere Jahre Kunde und ich hab gerade mit ihrem Service Mitarbeiter gesprochen und der hat mich angeschrieen und legt einfach während des Gesprächs auf und damit bin ich absolut absolut nicht zufrieden das kenn ich aber auch von der Deutschen Telekom gar nicht man kann mich nicht inmitten des Gespräches einfach abwürgen bin ich nicht der wurde laut und unhöflich und da und da fällt mir gar nichts mehr dazu ein", noap
+"ich bin gar nicht in den Genuss gekommen Service Mitarbeiter zu sprechen nach zwölf Minuten bin ich aus der Leitung rausgekappt worden das kann mich nicht zufrieden stellen", untr
+"ich bin gar nicht in den Genuss gekommen Service Mitarbeiter zu sprechen nach zwölf Minuten bin ich aus der Leitung rausgekappt worden das kann mich nicht zufrieden stellen", noap
+"wurde von ihnen nur über die Zufriedenheit gefragt das ist unbefriedigend", noap
+"es hat sich überhaupt kein Kundenberater gemeldet ich bin gleich zu dieser Fragestunde geleitet worden", untr
+"angeblich Xtra Weekend ich habe angeblich Xtra Weekend gebucht was nicht der Fall ist und da wurde bereits Geld abgebucht und  ja darüber ärger ich mich sehr denn dieses Gelde bekomme ich nicht wieder", kdsv
+"die Kundenberatung ihrer Mitarbeiter war unter aller Sau", noap
+"aufgrund eines  Austauschs eines  eines iPod  oder eines iPhone das ich leider kaputt gemacht habe hab ich ersatzweise  jetzt ein neues sechzehn Gigabyte Handy bekommen das ist in Ordnung dass ich jetzt zusätzlich noch zu dem Vertragswechsel Iphone noch mal ein hundert siebzig Euro bezahlen  geht schlichtweg nicht also das heißt das hab ich der Mitarbeiterin gesagt  die Mitarbeiterin hat mich rausgeschmissen  das heißt  mit dem der Leistung sowohl vom Service als auch von der Mitarbeiterin bin ich nicht zufrieden deswegen auch die negative Bewertung", kdsv
+"aufgrund eines  Austauschs eines  eines iPod  oder eines iPhone das ich leider kaputt gemacht habe hab ich ersatzweise  jetzt ein neues sechzehn Gigabyte Handy bekommen das ist in Ordnung dass ich jetzt zusätzlich noch zu dem Vertragswechsel Iphone noch mal ein hundert siebzig Euro bezahlen  geht schlichtweg nicht also das heißt das hab ich der Mitarbeiterin gesagt  die Mitarbeiterin hat mich rausgeschmissen  das heißt  mit dem der Leistung sowohl vom Service als auch von der Mitarbeiterin bin ich nicht zufrieden deswegen auch die negative Bewertung", kdsv
+"eine Woche hingehalten mit dem Zugang für  Internet ich bezahle seit fünfzehnten Januar monatlich vierzig Euro und komme nicht ins Internet da ist ein Defekt an der Leitung der nicht behoben wird entweder sind ihre Monteure so dumm dass sie  nicht können oder oder sonst irgendetwas ich werde mir das nicht bieten lassen und werde am Montag nach Darmstadt anrufen zu dem obersten Chef und werde eine Beschwerde eingeben", strg
+"ich habe die null acht hundert drei und dreißig null zehn dreißig gewählt in der Hoffnung  eine Auskunft als Geschäftskunde zu bekommen und lande grundsätzlich im Privatkunden Bereich", noap
+"es kann nicht sein dass man mitten unter einem Beratungs Gespräch unterbrochen wird für eine dumme Frage", noap
+"ja die Freischaltung zum zweiten sechsten die ich beantragt hatte zu dem   Fulltime   Tarif  der bestellt wurde am sechsten fünften also vier Wochen hatte die Telekom Zeit eine Auftragsbestätigung zu schicken die ist nicht gekommen nun kann  die Person für die ich das gemacht habe am zweiten sechsten keine  diesen Tarif nicht in Anspruch nehmen sondern erst in zum neunzehnten sechsten und das scheint mir in ihrem Haus wohl nicht ganz richtig gelaufen zu sein", kdsv
+"ja die Freischaltung zum zweiten sechsten die ich beantragt hatte zu dem   Fulltime   Tarif  der bestellt wurde am sechsten fünften also vier Wochen hatte die Telekom Zeit eine Auftragsbestätigung zu schicken die ist nicht gekommen nun kann  die Person für die ich das gemacht habe am zweiten sechsten keine  diesen Tarif nicht in Anspruch nehmen sondern erst in zum neunzehnten sechsten und das scheint mir in ihrem Haus wohl nicht ganz richtig gelaufen zu sein", noap
+"was genau was genau war wenn man vier oder fünf Tage warten muss bis man mal einen Anschluss bekommt hier wieder und man fünf Mal  zehn Mal anrufen muss um dass man irgendwie jemanden einen Kontakt bekommt das ist für mich gleich ja das ist Null Null und noch einmal Null", noap
+"ja ich  ja ich konnte überhaupt nichts sagen ich konnte überhaupt nichts sagen der Teilnehmer ist wieder aus dem Gespräch raus", knbr
+"meine  erworben habe oben vom Berater falsch beraten wurde und ich das Gefühl habe er hat mich verarscht danke", kmpt
+"sie haben mich mit niemanden verbunden noch habe noch mit niemand gesprochen", untr
+"die Kündigung des Vertrages von meinem Mann  ich versuche schon seit dem ein und zwanzigsten vierten diesen Vertrag zu kündigen weil mein Mann verstorben ist ich habe noch keine Bestätigung dass das geklappt hat", kdsv
+"mir wurde mir wurde gar nicht geholfen und dann war das Gespräch zu Ende", knbr
+"ich habe eine Frage gestellt wurde fünfzehn Minuten in die Warteschleife gehangen und hinterher hat er mich ins Bewertungs Gespräch geschickt das hat nicht gestimmt", noap
+"ich habe eine Frage gestellt wurde fünfzehn Minuten in die Warteschleife gehangen und hinterher hat er mich ins Bewertungs Gespräch geschickt das hat nicht gestimmt", knbr
+"kam gar nicht durch ja ich wurde jetzt einfach  hier vermittelt interessiert mich hier alles gar nicht ich möchte ein Gespräch", untr
+"der Sprachcomputer hat einfach nicht so gut reagiert und manche Dinge einfach nicht verstanden und einfach  nur wiederholt Ende", noap
+"sie haben mich aus der Leitung geworfen und das ist jetzt nicht das erste Mal passiert ich empfinde das als überhaupt nicht gut ich hoffe sie können das wirklich verändern", knbr
+"es wurde im einfach Gespräch einfach aufgelegt das kann ja wohl nicht angehen", noap
+"keine Hilfe bekommen", noap
+"ihr Service Mitarbeiter hat einfach aufgelegt nicht ich wusste nicht was los ist und hat einfach das Gespräch beendet und dann kamen sie in die Leitung mehr kann ich nicht dazu sagen", noap
+"ich komme von einer Geschäftsreise hab lange Zeit hinter mir habe ein Geschäfts Konto bei ihnen eine Telekom mobil Netz Verbindung bin unzufrieden mit der Beratung das heißt mit meiner Vertrags Verlängerung werde verbunden mit angeblich einem Sachbearbeiter der für meine Angelegenheiten zuständig ist und er sagt mir einfach tut mir leid sie sind falsch verbunden können sie noch mal von vorne anfangen zu telefonieren klasse wer bezahlt mir die Zeit", kdsv
+"ich komme von einer Geschäftsreise hab lange Zeit hinter mir habe ein Geschäfts Konto bei ihnen eine Telekom mobil Netz Verbindung bin unzufrieden mit der Beratung das heißt mit meiner Vertrags Verlängerung werde verbunden mit angeblich einem Sachbearbeiter der für meine Angelegenheiten zuständig ist und er sagt mir einfach tut mir leid sie sind falsch verbunden können sie noch mal von vorne anfangen zu telefonieren klasse wer bezahlt mir die Zeit", kmpt
+"ja nach ungefähr  zwei Minuten in der Warteschleife wurde mein Gespräch einfach beendet und ich bin hier bei dieser Befragung gelandet ohne mein Anliegen äußern zu können", untr
+"es hat kein Gespräch stattgefunden", untr
+"ich habe also die Kollegin die Kollegin vom Kundendienst angerufen und die hat mir gesagt mein Vorhaben liegt und das ist eigentlich die Störungsstelle an die mich  Stelle anrufen und das nervt mich", strg
+"ich habe also die Kollegin die Kollegin vom Kundendienst angerufen und die hat mir gesagt mein Vorhaben liegt und das ist eigentlich die Störungsstelle an die mich  Stelle anrufen und das nervt mich", kmpt
+"erstens hat die Dame einfach aufgelegt als ich noch eine Frage gestellt habe und außerdem haben wir vor sechs Wochen unseren Anschluss weil wir umgezogen sind umgemeldet Telefon klappt Internet nicht und am Montag wurde uns ein Rückruf versprochen oder am Dienstag war das es hat sich nichts getan bis heute und diese Dame hat mir dann gesagt tja das wird jetzt am achtzehnten umgeschaltet  der Fehler wurde behoben ich weiß nicht wenn der Fehler behoben wurde könnte man uns vielleicht schon heute das Internet  zugestehen wir sind sehr unzufrieden", noap
+"erstens hat die Dame einfach aufgelegt als ich noch eine Frage gestellt habe und außerdem haben wir vor sechs Wochen unseren Anschluss weil wir umgezogen sind umgemeldet Telefon klappt Internet nicht und am Montag wurde uns ein Rückruf versprochen oder am Dienstag war das es hat sich nichts getan bis heute und diese Dame hat mir dann gesagt tja das wird jetzt am achtzehnten umgeschaltet  der Fehler wurde behoben ich weiß nicht wenn der Fehler behoben wurde könnte man uns vielleicht schon heute das Internet  zugestehen wir sind sehr unzufrieden", umzg
+"das Gespräch wurde abgebrochen", knbr
+"ich möchte eine Weiterleitung zum Servicecenter ich habe kein Internetanschluss und rufe seit dreißig Minuten an und bekomme keine Auskunft", noap
+"ich möchte eine Weiterleitung zum Servicecenter ich habe kein Internetanschluss und rufe seit dreißig Minuten an und bekomme keine Auskunft", knbr
+"ihre Mitarbeiterin war unhöflich", kmpt
+"vom Festnetz an ich rufe vom Festnetz an hänge zehn Minuten in der Warteschleife rufe ein zweites Mal vom Festnetz an hänge wieder zehn Minuten in der Warteschleife jetzt ruf ich vom Handy an sage das Gespräch kann aufgezeichnet werden und werde direkt verbunden das kann doch nicht normal sein dann stellt man eine Rechnung einfach auf online um obwohl ich nichts veranlasst habe finde ich eine Unverschämtheit", noap
+"vom Festnetz an ich rufe vom Festnetz an hänge zehn Minuten in der Warteschleife rufe ein zweites Mal vom Festnetz an hänge wieder zehn Minuten in der Warteschleife jetzt ruf ich vom Handy an sage das Gespräch kann aufgezeichnet werden und werde direkt verbunden das kann doch nicht normal sein dann stellt man eine Rechnung einfach auf online um obwohl ich nichts veranlasst habe finde ich eine Unverschämtheit", rchn
+"eine Katastrophe", noap
+"nachdem ich  mit dem Team Leiter gesprochen habe meinte er dass er sich mit dem T-online Kundenservice in Verbindung setzen müsste daraufhin  kam ich in die Warteschleife wartete dort auch ab und wurde dann aus dem Gespräch geschmissen und wurde dann an das die Kunden Bewertung die ich jetzt hier grad durchführe angehängt das Thema war noch nicht abgeschlossen er wollte sich noch mal mit mir in Verbindung setzen beziehungsweise mit mir und T-online und wurde jetzt einfach rausgekickt", knbr
+"das Gespräch war meines Erachtens noch nicht zu Ende und ich habe noch kein vollständiges Ergebnis bekommen und schon wurde es weggeschaltet", knbr
+"da war hallo da waren Kollegen hier im Haus und haben die Leitung abgeklemmt und das schon zum dritten Mal eine riesen Sauerei und da beschwer ich mich jetzt offiziell", kdsv
+"da war hallo da waren Kollegen hier im Haus und haben die Leitung abgeklemmt und das schon zum dritten Mal eine riesen Sauerei und da beschwer ich mich jetzt offiziell", kdsv
+"naja das einfach nur darauf hingewiesen wurde dass er Vorschriften hat nur Vorschriften aber gar nicht auf den Kunden drauf eingeht und ich hab schon seit mehr als drei Wochen kein Internet und keiner kümmert sich um mich okay", strg
+"naja das einfach nur darauf hingewiesen wurde dass er Vorschriften hat nur Vorschriften aber gar nicht auf den Kunden drauf eingeht und ich hab schon seit mehr als drei Wochen kein Internet und keiner kümmert sich um mich okay", noap
+"Frau Müller hat eine unverschämte Einstellung und hat   eigentlich nicht  fachlich  geredet", kmpt
+"konkrete Auskunft auf meine Beschwerde bekommen mehrfach habe ich angerufen das Problem wird immer nur geleitet", noap
+"überhaupt nicht vermittelt worden", knbr
+"die Beratung die Beratung", noap
+"ich hab nicht einmal den Vornamen von dem  Service Mitarbeiter mitgeteilt bekommen obwohl ich mehrmals gefragt habe äußerst unfreundlich und mein  ja mein Vorhaben wurde  nicht gelöst bitte Rückruf Telefon null eins sechs null neun sieben sieben fünf sechs vier fünf null", noap
+"sie erklären so scheiße", noap
+"die Auskunft war sehr unzufrieden mir wurde also  sogar  dass ich an dieser  Anschluss Schuld wäre ich das  manipuliert hätte sozusagen also ich bin äußerst unzufrieden und ich  und das hat alles die  Telekom bei mir so eingeklemmt", kmpt
+"ich hab neulich angerufen weil ich nämlich schwerst behindert bin und die Dame hat gesagt sie wird sich drum kümmern und hat nicht zurückgerufen und so war  schon mal wegen wegen sozial Tarif und da kümmert sich dann einfach gar keiner mehr drum und das find ich nicht richtig und der Mann jetzt der war so sehr kurz angebunden der Herr Schmidt", noap
+"ich hab neulich angerufen weil ich nämlich schwerst behindert bin und die Dame hat gesagt sie wird sich drum kümmern und hat nicht zurückgerufen und so war  schon mal wegen wegen sozial Tarif und da kümmert sich dann einfach gar keiner mehr drum und das find ich nicht richtig und der Mann jetzt der war so sehr kurz angebunden der Herr Schmidt", kmpt
+"lange Wartezeiten nicht erfüllt Versprechen und ständig diese scheiß Computer  Stimmen des Weiteren wurde ich gerade aus der Leitung geworfen also das war nicht freiwillig beendet die  die Service danke", noap
+"lange Wartezeiten nicht erfüllt Versprechen und ständig diese scheiß Computer  Stimmen des Weiteren wurde ich gerade aus der Leitung geworfen also das war nicht freiwillig beendet die  die Service danke", knbr
+"das Gespräch mit dem Berater wurde einfach unterbrochen", noap
+"ja das geht wegen  das Gespräch  da hat sich jemand gemeldet und bis jetzt  ist weg nix mehr zu hören", untr
+"kompetenten Leute man kommt nicht an die kompetenten Leute", noap
+"ich versuche seit drei Monaten in der Auskunft gelistet zu sein und warte heute eine halbe Stunde das Gespräch ist noch nicht beendet und ich werde jetzt schon abgefragt", knbr
+"ich versuche seit drei Monaten in der Auskunft gelistet zu sein und warte heute eine halbe Stunde das Gespräch ist noch nicht beendet und ich werde jetzt schon abgefragt", noap
+"aufgelegt es wurde einfach aufgelegt", knbr
+"das Gespräch ist nicht beendet da klicken sie mich hier aus Gott verdammt", knbr
+"ich wurde gar nicht verbunden mit einem Service Mitarbeiter es hat kein Gespräch stattgefunden", untr
+"einfach aufgelegt", knbr
+"ein Gespräch ich warte auf ein Gespräch und ich bin überhaupt nicht drangekommen ich finde das so eine Unverschämtheit wer bezahlt mir die Kosten  unmöglich ich probier schon eine Viertelstunde anzurufen", untr
+"ein Gespräch ich warte auf ein Gespräch und ich bin überhaupt nicht drangekommen ich finde das so eine Unverschämtheit wer bezahlt mir die Kosten  unmöglich ich probier schon eine Viertelstunde anzurufen", noap
+"das kann ich jetzt auch nicht sagen tut mir leid ich kann  nicht sagen", noap
+"das", untr
+"gelöst", noap
+"ich wollte die Option   geändert wissen also bekommen bei mir  das ist nicht möglich obwohl ich häufig  über SMS dieses Angebot bekomme von T-Mobile", kdsv
+"die Verbindung wurde gar nicht hergestellt", knbr
+"ja guten Tag ich hatte zwar ein Gespräch  kein Gespräch  eine Weiterleitung aber  die  wurde mir nicht abgenommen die ich hatte praktisch kein Gespräch danke Wiederhören", untr
+"das Gespräch wurde mittendrin unterbrochen und ich bekam diese nette Bewertung", knbr
+"das Gespräch wurde einfach  unterbrochen und und und ihre dumme Rückfrage kam dazwischen", knbr
+"Kundenberater hat einfach aufgelegt die Störung ist seit ein ein halb Jahren nicht behoben und mein    geht im Moment auch nicht", noap
+"Kundenberater hat einfach aufgelegt die Störung ist seit ein ein halb Jahren nicht behoben und mein    geht im Moment auch nicht", strg
+"ich habe noch keine verständliche Auskunft von ihnen bekommen und dann fragen sie bereits der Auskunft zufrieden sei da kann ich nur sagen ungenügend", noap
+"bitte", noap
+"lag nicht an der Beraterin aber der ganze Service von T-Mobile ist nicht vorhanden weil man plötzlich Sachen zugeschickt bekommt die man nie beantragt hat Anrufe bekommt die man nicht haben will und der ganze Laden einfach nur zum Kotzen ist vielen Dank", kdsv
+"mit den ich reden kann reden möcht ich mit jemanden nicht einfach abgewürgt werden Mann Mann Mann geben sie mir einen Menschen zum Sprechen", knbr
+"die Kompetenz des beratenden Mitarbeiters den ich gerade am Telefon hatte die schien mir nicht gesichert zu sein denn es hatte ein  Programmpunkt der  den ich vorher in meinem alten Handy hatte oder zehn Jahre in dem alten Handy hatte und im neuen Handy im März nicht mehr ab will er mir weiß machen oder erklärt er mir dass das eine Funktion des Handy nicht ist und nicht eine Funktion der Telekom ist dass ich meine Mobilbox ausgeschalten  ausgeschaltet haben möchte wie ich sie schon seit zehn Jahren bei ihnen habe und das war das für mich das Ausschlaggebende das mich der Mitarbeiter nicht dahingehend beraten konnte", kdsv
+"die Kompetenz des beratenden Mitarbeiters den ich gerade am Telefon hatte die schien mir nicht gesichert zu sein denn es hatte ein  Programmpunkt der  den ich vorher in meinem alten Handy hatte oder zehn Jahre in dem alten Handy hatte und im neuen Handy im März nicht mehr ab will er mir weiß machen oder erklärt er mir dass das eine Funktion des Handy nicht ist und nicht eine Funktion der Telekom ist dass ich meine Mobilbox ausgeschalten  ausgeschaltet haben möchte wie ich sie schon seit zehn Jahren bei ihnen habe und das war das für mich das Ausschlaggebende das mich der Mitarbeiter nicht dahingehend beraten konnte", kdsv
+"es unmöglich dass an zu bestehenden Aufträgen niemand ereichen kann niemand erhalten kann  der einem kompetent irgendwelche Fragen beantworten kann und sich stundenlang  sich von der Aufzugs Musik berieseln lässt  und nicht einen bestehenden Ansprechpartner hat der einem Fragen beantworten kann", kdsv
+"es unmöglich dass an zu bestehenden Aufträgen niemand ereichen kann niemand erhalten kann  der einem kompetent irgendwelche Fragen beantworten kann und sich stundenlang  sich von der Aufzugs Musik berieseln lässt  und nicht einen bestehenden Ansprechpartner hat der einem Fragen beantworten kann", noap
+"die Frau hatte schlechte Laune und konnte mir einfach nicht helfen war ein bisschen starrköpfig na ja  ganz toll danke", kmpt
+"Beraterin einen dass die Beraterin einen so schnell wie möglich abwimmeln wollte im T-Punkt  dass sie nicht ausreichend Informationen für mich hatte keine fachlichen Kenntnisse", kmpt
+"das Gespräch wurde beendet und  ich wurde direkt mit ihnen verbunden also ich bin noch nicht mal zu Wort gekommen also die Telekom find ich zum äußerst zum Kotzen wenn ihnen das reicht bin ich auch sehr zufrieden  ist ja wohl ein Witz dass das Gespräch mittendrin  einfach beendet wird bevor sich der Kunde äußern kann", knbr
+"ich wollte mein ich wollte meinen Xtra Guthaben aufladen laut SMS von ihnen", kdsv
+"keine Information ich warte auf Information", noap
+"ich hätte mir gewünscht einen Gesprächspartner zu haben leider gab es keinen Gesprächspartner", untr
+"Mitarbeiterin eher unfreundlich und keine zufrieden stellende  keine zufrieden stellenden Lösungs Vorschlag für mein Problem", kmpt
+"nur um eine  ich habe nur um eine Termin Verschiebung gebeten dieses ist leider nicht möglich gewesen durch die Unflexibilität der Telekom vielen Dank", kdsv
+"verbunden worden ich bin nicht verbunden worden", knbr
+"ich wollte noch die Option Xtra Weekend und  SMS Sparoption  dazubuchen und weiß nicht wie das geht", kdsv
+"klare Aussage ihre sehr unklare Aussage ihres Mitarbeiters und ihr Kundenservice ist sehr miserabel vor allem ihr Telefon Computer machen sie da mal ein paar Neuerungen dass die Kunden zufrieden wieder sind", kmpt
+"ich wollte eigentlich eine Auskunft über  meine von mir  gemeldete Störung haben aber ich  sie haben mich ja einfach abgeschaltet das kann das kann nicht wahr sein das kann wirklich nicht wahr sein", strg
+"ich wollte eigentlich eine Auskunft über  meine von mir  gemeldete Störung haben aber ich  sie haben mich ja einfach abgeschaltet das kann das kann nicht wahr sein das kann wirklich nicht wahr sein", knbr
+"mein Telefon wurde von der Telekom am Dienstag ohne Auftrag abgeschaltet wir haben heute Freitag und das Telefon ist immer noch nicht angeschaltet worden", kdsv
+"mein Telefon wurde von der Telekom am Dienstag ohne Auftrag abgeschaltet wir haben heute Freitag und das Telefon ist immer noch nicht angeschaltet worden", noap
+"man hat mir nicht man hat mir nicht zugehört und  mich  verwiesen auf  ein ganz anderes Unternehmen und man will mir nicht helfen seit sechs Monaten nicht", noap
+"man hat mir nicht man hat mir nicht zugehört und  mich  verwiesen auf  ein ganz anderes Unternehmen und man will mir nicht helfen seit sechs Monaten nicht", kmpt
+"die Dame hat einfach aufgelegt", noap
+"Informationen gekriegt nach Unterlagen fehlen", noap
+"weil sie mich angeblich nicht verstanden hat", noap
+"ich habe  überhaupt kein Gespräch geführt mit einem Berater", untr
+"ich bin beim Weiterverbinden an den Geschäftskunden Bereich rausgeflogen mit einem besetzt Ton da bin ich absolut nicht zufrieden mit ganz und gar nicht", kmpt
+"die Mitarbeiterin war sehr freundlich aber ich wurde plötzlich gedrängt und bin jetzt bei dieser Befragung gelandet also ich hab keine Auskunft erhalten die ich gebraucht hätte sondern bin jetzt bei dieser Befragung das heißt ich kann jetzt wieder anrufen", noap
+"erstens mal eine erstens eine halbe Stunde warten in der Warteschleife dann werden wir rausgeschmissen dann muss man noch mal anrufen und dann muss man noch mal eine halbe Stunde warten mit einer absolut blöden Melodie absolut keinen Kundenservice", noap
+"erstens mal eine erstens eine halbe Stunde warten in der Warteschleife dann werden wir rausgeschmissen dann muss man noch mal anrufen und dann muss man noch mal eine halbe Stunde warten mit einer absolut blöden Melodie absolut keinen Kundenservice", knbr
+"Warteschlange und dann drückt mich einfach weg und das ist nicht das erste Mal also sehr sehr sehr sehr sehr unzufrieden sehr", noap
+"das Gespräch wurde einfach unterbrochen ich habe die Hilfe nicht bis zum   bis zum Ende in Anspruch nehmen können das ist kein Kundenservice das ist Mist", knbr
+"ich möchte meine  Mailbox Abfrage löschen und das haben sie nicht gemacht bisher ich habe laufend ihre ihren Service versucht anzurufen und sie irgendwie sperren sie das", kdsv
+"Berater der Berater hat einfach aufgelegt und ich bin gar nicht zu Wort gekommen  also ich bin zu Wort gekommen ich hab mich vorgestellt mit den mit meinem Namen und habe keinen Service bekommen und spreche jetzt wieder mit der Maschine das find ich in bisschen sehr unprofessionell ich fühle mich nicht angesprochen als Kunde und das finde ich ungenügend", noap
+"es ging in meinem Fall um einen also das Problem war", kdsv
+"es ging in meinem Fall um einen also das Problem war", noap
+"die  Lösung des Problems Mitarbeiter war sehr freundlich", noap
+"es handelte sich um eine Störung die schon vor längerer Zeit aufgetreten ist und ich schon mehrfach mit dem mit der stör Stelle gesprochen habe und musste immer wieder meine Angaben  wiederholen Telefonnummer Handynummer das muss doch alles beim ersten Mal gespeichert werden das man nicht bei jedem Mal wieder nachhaken muss", strg
+"einfach abgehangen keine Antwort auf meine Frage", knbr
+"der Service der Firma Telekom ist unter aller Kanone seit Montag früh ist der ist der ist die Störung gemeldet und seit Montag früh werde ich vertröstet heute ist Mittwoch nach acht und vierzig Stunden ist Telekom Service noch nicht in der Lage mir zu sagen wann Techniker et cetera kommt unter aller Kanone dieser Service vielen Dank", strg
+"der Service der Firma Telekom ist unter aller Kanone seit Montag früh ist der ist der ist die Störung gemeldet und seit Montag früh werde ich vertröstet heute ist Mittwoch nach acht und vierzig Stunden ist Telekom Service noch nicht in der Lage mir zu sagen wann Techniker et cetera kommt unter aller Kanone dieser Service vielen Dank", noap
+"ich habe mehrmals bei euch angerufen und jedes Mal meinen Namen und meine Schrift geändert und folgt immer wieder die falsche Adresse und die falsche Name auf die Rechnung und ihre Mitarbeiterin jetzt hat  mir nicht bis  zum Ende gehört", kdsv
+"ich habe mehrmals bei euch angerufen und jedes Mal meinen Namen und meine Schrift geändert und folgt immer wieder die falsche Adresse und die falsche Name auf die Rechnung und ihre Mitarbeiterin jetzt hat  mir nicht bis  zum Ende gehört", noap
+"totale Inkompetenz", kmpt
+"viel zu lange  Wartezeit bis zur Verbindung mit dem kompetenten Sachbearbeiter unnütze Zwischenfragen und so  und so fort das war", noap
+"mir wurde leider bei meinem Anliegen nicht geholfen warum meine Rufnummer   gesendet wird obwohl das so nicht vereinbart war es sollte an einen Service Teilnehmer oder Service Mitarbeiter verbunden werden und das Gespräch war beendet", kdsv
+"mir wurde leider bei meinem Anliegen nicht geholfen warum meine Rufnummer   gesendet wird obwohl das so nicht vereinbart war es sollte an einen Service Teilnehmer oder Service Mitarbeiter verbunden werden und das Gespräch war beendet", kmpt
+"also die Störung lag jetzt schon am letzten Mittwoch vor Donnerstag wollte jemand vorbeikommen und der Termin wird jetzt für Morgen vereinbart ich finde das ist viel zu lang bis  bis der Schaden behoben wird Ende", strg
+"also die Störung lag jetzt schon am letzten Mittwoch vor Donnerstag wollte jemand vorbeikommen und der Termin wird jetzt für Morgen vereinbart ich finde das ist viel zu lang bis  bis der Schaden behoben wird Ende", kdsv
+"das Gespräch wurde abrupt beendet mittendrin", noap
+"ich wollte nicht die Rechnung Rechnung online untergejubelt bekommen und hab das Kleingedruckte in der Auftrags Bestätigung wohl nicht intensiv gut   gelesen weil das ein bisschen eine Zumutung ist das war", kdsv
+"ich wollte nicht die Rechnung Rechnung online untergejubelt bekommen und hab das Kleingedruckte in der Auftrags Bestätigung wohl nicht intensiv gut   gelesen weil das ein bisschen eine Zumutung ist das war", rchn
+"ich habe nach ein paar Stunden mit demselben Anliegen an die Telekom gewendet und das Gespräch wurde einfach unterbrochen und es wurde keine Hilfe in die Wege geleitet", knbr
+"kein Entkommen obwohl überhaupt keine Verschuldung unsererseits besteht", noap
+"einfach aufgelegt sie hat einfach aufgelegt", noap
+"die Beraterin war nicht kompetent genug um mir Auskunft zu geben was T-online Vision bedeutet", kmpt
+"die Beraterin war nicht kompetent genug um mir Auskunft zu geben was T-online Vision bedeutet", kdsv
+"ich ständig verbunden werde ich werde ständig verbunden und keiner weiß Bescheid über meine Situation und warten schon seit ersten Mai auf  Festnetz Anschluss und irgendwie kriegen sie das nicht geregelt und werd einfach von einem zum anderen verbunden und das ist es was mich so nervt keiner kann mir eine konkrete Antwort geben", kmpt
+"ich ständig verbunden werde ich werde ständig verbunden und keiner weiß Bescheid über meine Situation und warten schon seit ersten Mai auf  Festnetz Anschluss und irgendwie kriegen sie das nicht geregelt und werd einfach von einem zum anderen verbunden und das ist es was mich so nervt keiner kann mir eine konkrete Antwort geben", kdsv
+"der Berater hat einfach aufgelegt", noap
+"das ewige Gewarte und mein zweites Anliegen findet leider zusammen vorher das ist alles Scheiße", noap
+"ich hätte gerne ein wie auch immer geartetes Paket für die Schweiz und das gibt es bei der Telekom immer noch nicht das heißt ich werde jetzt acht Tage viel Geld bezahlen für  Telefonieren das ärgert mich", kdsv
+"in Ordnung aber früher hat ich schon  sehr unböse Mitarbeiter von ihnen am Telefon", noap
+"die Beraterin hat einfach aufgelegt das gibt  doch nicht wenn man anruft und zwanzig Minuten wartet kann man doch nicht einfach auflegen wo kommen wir denn da hin bin ja nicht umsonst hier Kundin bei euch ja", noap
+"die Beraterin hat einfach aufgelegt das gibt  doch nicht wenn man anruft und zwanzig Minuten wartet kann man doch nicht einfach auflegen wo kommen wir denn da hin bin ja nicht umsonst hier Kundin bei euch ja", noap
+"ich habe ein iPhone und das funktioniert nicht weder Internet noch E-Mails bezahlen darf ich monatlich aber  Telekom bringt es nicht fertig dass das Teil funktioniert vor allem im Ausland und wenn ich in vom Ausland zurückkomme dann geht  schon zweimal nicht kein Verbindung zum Server laufend", kdsv
+"ich habe jetzt dreizehn Minuten gewartet auf den Berater bis jetzt hab ich noch keinen Berater erhalten und dann kamen sie praktisch mit ihren Fragen danke", noap
+"ich habe jetzt dreizehn Minuten gewartet auf den Berater bis jetzt hab ich noch keinen Berater erhalten und dann kamen sie praktisch mit ihren Fragen danke", untr
+"der Service Mitarbeiter hat mich aus der Leitung geschmissen ohne Nennung seines Namens", noap
+"unterbrochen das Gespräch wurde unterbrochen und ich bin aus der Warteschleife rausgeflogen und ich versuch seit dreißig Minuten eine Information zu bekommen  ich habe zwei Techniker am Apparat gehabt und jedes Mal wurde die Verbindung unterbrochen", knbr
+"unterbrochen das Gespräch wurde unterbrochen und ich bin aus der Warteschleife rausgeflogen und ich versuch seit dreißig Minuten eine Information zu bekommen  ich habe zwei Techniker am Apparat gehabt und jedes Mal wurde die Verbindung unterbrochen", noap
+"leider war kein Service Mitarbeiter in der Leitung und hat mit mir ein Gespräch geführt die Leitung war still", untr
+"ja keine Mitteilung ob jetzt da was an den  gestörten Telefon ist doch repariert wird oder was", kdsv
+"die die Beratung war schlecht", kmpt
+"der Ansprechpartner hatte keine Ahnung und eine Verbindung zur Technik kam nicht zustande das Gespräch wurde dann beendet dann bin ich in dieser Schleife gelandet", kmpt
+"der Ansprechpartner hatte keine Ahnung und eine Verbindung zur Technik kam nicht zustande das Gespräch wurde dann beendet dann bin ich in dieser Schleife gelandet", kmpt
+"Verbindung zum dritten Mal unterbrochen", knbr
+"die Verbindung wurde einfach unterbrochen", knbr
+"ich hatte überhaupt keine Antwort auf meine Frage gekriegt das Gespräch wurde jetzt einfach unterbrochen", knbr
+"ich wurde einfach weggedrückt", noap
+"am Telefon das geht überhaupt nicht und ich bitte dass das in Ordnung gebracht wird", noap
+"da ist eine Störung in unserem Telefon und ich kann da nicht  ich weiß es nicht was ich da überhaupt tun soll", strg
+"ich hatte keine Verbindung zum Servicecenter", untr
+"es ist überhaupt kein Gespräch zustande gekommen ja und dann ich durfte nur das nicht geführte Gespräch bewerten und das ist unzufriedenstellend", untr
+"eine Retour ein es klappt eine Retour eines   Handys nicht also  ich war im T-Punkt gewesen und hab das Gerät mehrmals getauscht und sollte einem Kunden eine  ein Zettel zugeschickt werden mit  drei neuen Hand Geräten anscheinend ist nie  die Retour des alten Handys da und  ja das Gerät ist halt  im T-Punkt abgegeben worden in der Hohen Straße und  ja der Kunde das ist  die Firma Deutsche Handwerkerzentrale kriegt jetzt das Handy nicht ich war schon zig Mal im T-Punkt es soll geregelt worden sein und der Kunde kriegt einfach kein neues Handy telefoniert mit dem alten Endgerät", kdsv
+"eine Retour ein es klappt eine Retour eines   Handys nicht also  ich war im T-Punkt gewesen und hab das Gerät mehrmals getauscht und sollte einem Kunden eine  ein Zettel zugeschickt werden mit  drei neuen Hand Geräten anscheinend ist nie  die Retour des alten Handys da und  ja das Gerät ist halt  im T-Punkt abgegeben worden in der Hohen Straße und  ja der Kunde das ist  die Firma Deutsche Handwerkerzentrale kriegt jetzt das Handy nicht ich war schon zig Mal im T-Punkt es soll geregelt worden sein und der Kunde kriegt einfach kein neues Handy telefoniert mit dem alten Endgerät", noap
+"keine Angaben", noap
+"die Verbindung wurde unterbrochen ich kann einfach niemanden erreichen es war eben eine menschliche Stimme da die anhörte was ich zu sagen habe und dann hörte ich diese automatische Ansage und sonst nichts ich bin verzweifelt ich versuche schon über Minuten jetzt eine Hilfe zu erreichen ich habe eine Störung eine Liechtensteiner Vorwahl betreffend und komme nicht an Telekom heran", noap
+"die Verbindung wurde unterbrochen ich kann einfach niemanden erreichen es war eben eine menschliche Stimme da die anhörte was ich zu sagen habe und dann hörte ich diese automatische Ansage und sonst nichts ich bin verzweifelt ich versuche schon über Minuten jetzt eine Hilfe zu erreichen ich habe eine Störung eine Liechtensteiner Vorwahl betreffend und komme nicht an Telekom heran", strg
+"die Beratung von vornherein nicht über eine Rechnung  die Dame war sehr überheblich arrogant und das muss ich mir mit siebzig Jahren nicht mehr gefallen lassen und antun", rchn
+"die Beratung von vornherein nicht über eine Rechnung  die Dame war sehr überheblich arrogant und das muss ich mir mit siebzig Jahren nicht mehr gefallen lassen und antun", kmpt
+"keine Information über mein tatsächliches Problem", noap
+"kommen wir nicht  und  das ist einfach sehr frustrierend der jetzige Anruf war war höflich und freundlich aber ob da noch  was passiert weiß ich auch nicht", kdsv
+"kommen wir nicht  und  das ist einfach sehr frustrierend der jetzige Anruf war war höflich und freundlich aber ob da noch  was passiert weiß ich auch nicht", rchn

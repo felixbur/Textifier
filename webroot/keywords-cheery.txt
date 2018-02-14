@@ -1,0 +1,18 @@
+neutral Neutral:
+
+angry Ärgerlich:
+scheiße
+doof
+kacke
+geht gar nicht
+
+
+worry Besorgt:
+besorgt
+sorgen
+kostet
+
+happy Zufrieden:
+danke
+super
+klasse

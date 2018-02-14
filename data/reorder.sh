@@ -1,0 +1,1 @@
+java -cp "../webroot/WEB-INF/lib/weka.jar" weka.filters.unsupervised.attribute.Reorder -R last-first

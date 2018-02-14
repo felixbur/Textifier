@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:ns1="http://org.apache.axis2/xsd" xmlns:ns="http://webservice.classification.services.laboratories.telekom.de" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:ax21="http://webservice.classification.services.laboratories.telekom.de/xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://webservice.classification.services.laboratories.telekom.de">
+    <wsdl:documentation>
+		Please Type your service description here
+	</wsdl:documentation>
+    <wsdl:types>
+        <xs:schema xmlns:ax22="http://webservice.classification.services.laboratories.telekom.de/xsd" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://webservice.classification.services.laboratories.telekom.de">
+            <xs:import namespace="http://webservice.classification.services.laboratories.telekom.de/xsd"/>
+            <xs:element name="ClassificationForText">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="text" nillable="true" type="xs:string"/>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="properties" nillable="true" type="ax22:KeyValue"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="ClassificationForTextResponse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="return" nillable="true" type="ax22:ClassificationResult"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="ClassificationXMLForText">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="text" nillable="true" type="xs:string"/>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="properties" nillable="true" type="ax22:KeyValue"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="ClassificationXMLForTextResponse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="return" nillable="true" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="DescriptionResponse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="return" nillable="true" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="VersionResponse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="return" nillable="true" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:schema>
+        <xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://webservice.classification.services.laboratories.telekom.de/xsd">
+            <xs:complexType name="KeyValue">
+                <xs:sequence>
+                    <xs:element minOccurs="0" name="key" nillable="true" type="xs:string"/>
+                    <xs:element minOccurs="0" name="value" nillable="true" type="xs:string"/>
+                </xs:sequence>
+            </xs:complexType>
+            <xs:complexType name="ClassificationResult">
+                <xs:sequence>
+                    <xs:element minOccurs="0" name="description" nillable="true" type="xs:string"/>
+                    <xs:element minOccurs="0" name="status" nillable="true" type="xs:string"/>
+                </xs:sequence>
+            </xs:complexType>
+        </xs:schema>
+    </wsdl:types>
+    <wsdl:message name="DescriptionRequest"/>
+    <wsdl:message name="DescriptionResponse">
+        <wsdl:part name="parameters" element="ns:DescriptionResponse"/>
+    </wsdl:message>
+    <wsdl:message name="VersionRequest"/>
+    <wsdl:message name="VersionResponse">
+        <wsdl:part name="parameters" element="ns:VersionResponse"/>
+    </wsdl:message>
+    <wsdl:message name="ClassificationXMLForTextRequest">
+        <wsdl:part name="parameters" element="ns:ClassificationXMLForText"/>
+    </wsdl:message>
+    <wsdl:message name="ClassificationXMLForTextResponse">
+        <wsdl:part name="parameters" element="ns:ClassificationXMLForTextResponse"/>
+    </wsdl:message>
+    <wsdl:message name="ClassificationForTextRequest">
+        <wsdl:part name="parameters" element="ns:ClassificationForText"/>
+    </wsdl:message>
+    <wsdl:message name="ClassificationForTextResponse">
+        <wsdl:part name="parameters" element="ns:ClassificationForTextResponse"/>
+    </wsdl:message>
+    <wsdl:portType name="ClassificationPortType">
+        <wsdl:operation name="Description">
+            <wsdl:input message="ns:DescriptionRequest" wsaw:Action="urn:Description"/>
+            <wsdl:output message="ns:DescriptionResponse" wsaw:Action="urn:DescriptionResponse"/>
+        </wsdl:operation>
+        <wsdl:operation name="Version">
+            <wsdl:input message="ns:VersionRequest" wsaw:Action="urn:Version"/>
+            <wsdl:output message="ns:VersionResponse" wsaw:Action="urn:VersionResponse"/>
+        </wsdl:operation>
+        <wsdl:operation name="ClassificationXMLForText">
+            <wsdl:input message="ns:ClassificationXMLForTextRequest" wsaw:Action="urn:ClassificationXMLForText"/>
+            <wsdl:output message="ns:ClassificationXMLForTextResponse" wsaw:Action="urn:ClassificationXMLForTextResponse"/>
+        </wsdl:operation>
+        <wsdl:operation name="ClassificationForText">
+            <wsdl:input message="ns:ClassificationForTextRequest" wsaw:Action="urn:ClassificationForText"/>
+            <wsdl:output message="ns:ClassificationForTextResponse" wsaw:Action="urn:ClassificationForTextResponse"/>
+        </wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="ClassificationSoap11Binding" type="ns:ClassificationPortType">
+        <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"/>
+        <wsdl:operation name="Description">
+            <soap:operation soapAction="urn:Description" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="Version">
+            <soap:operation soapAction="urn:Version" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="ClassificationXMLForText">
+            <soap:operation soapAction="urn:ClassificationXMLForText" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="ClassificationForText">
+            <soap:operation soapAction="urn:ClassificationForText" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:binding name="ClassificationSoap12Binding" type="ns:ClassificationPortType">
+        <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"/>
+        <wsdl:operation name="Description">
+            <soap12:operation soapAction="urn:Description" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap12:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="Version">
+            <soap12:operation soapAction="urn:Version" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap12:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="ClassificationXMLForText">
+            <soap12:operation soapAction="urn:ClassificationXMLForText" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap12:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="ClassificationForText">
+            <soap12:operation soapAction="urn:ClassificationForText" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap12:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:binding name="ClassificationHttpBinding" type="ns:ClassificationPortType">
+        <http:binding verb="POST"/>
+        <wsdl:operation name="Description">
+            <http:operation location="Classification/Description"/>
+            <wsdl:input>
+                <mime:content type="text/xml" part="Description"/>
+            </wsdl:input>
+            <wsdl:output>
+                <mime:content type="text/xml" part="Description"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="Version">
+            <http:operation location="Classification/Version"/>
+            <wsdl:input>
+                <mime:content type="text/xml" part="Version"/>
+            </wsdl:input>
+            <wsdl:output>
+                <mime:content type="text/xml" part="Version"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="ClassificationXMLForText">
+            <http:operation location="Classification/ClassificationXMLForText"/>
+            <wsdl:input>
+                <mime:content type="text/xml" part="ClassificationXMLForText"/>
+            </wsdl:input>
+            <wsdl:output>
+                <mime:content type="text/xml" part="ClassificationXMLForText"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="ClassificationForText">
+            <http:operation location="Classification/ClassificationForText"/>
+            <wsdl:input>
+                <mime:content type="text/xml" part="ClassificationForText"/>
+            </wsdl:input>
+            <wsdl:output>
+                <mime:content type="text/xml" part="ClassificationForText"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:service name="Classification">
+        <wsdl:port name="ClassificationHttpSoap11Endpoint" binding="ns:ClassificationSoap11Binding">
+            <soap:address location="http://192.168.182.1:8080/Classification/services/Classification.ClassificationHttpSoap11Endpoint/"/>
+        </wsdl:port>
+        <wsdl:port name="ClassificationHttpSoap12Endpoint" binding="ns:ClassificationSoap12Binding">
+            <soap12:address location="http://192.168.182.1:8080/Classification/services/Classification.ClassificationHttpSoap12Endpoint/"/>
+        </wsdl:port>
+        <wsdl:port name="ClassificationHttpEndpoint" binding="ns:ClassificationHttpBinding">
+            <http:address location="http://192.168.182.1:8080/Classification/services/Classification.ClassificationHttpEndpoint/"/>
+        </wsdl:port>
+    </wsdl:service>
+</wsdl:definitions>
